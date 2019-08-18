@@ -1,0 +1,5 @@
+*.model
+.idea/
+*.npy
+*.txt
+*.bz2
